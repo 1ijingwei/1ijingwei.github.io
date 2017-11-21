@@ -8,11 +8,11 @@ date: 2017-08-27
 location: "CO, USA"
 ---
 
-APPM 5720 Calculus II for Engineers
+APPM/MATH 5720 Mathematical Statistics (for APPM/MATH Major)
 ------
 * Supervisor: Prof. Jem Corcoran
 
-CSCI 5606 Principle Numerical of Computation
+CSCI 5606 Principle of Numerical Computation
 ------
 * Supervisor: Prof. Xiao-Chuan Cai
 
