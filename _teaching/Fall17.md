@@ -10,7 +10,7 @@ location: "CO, USA"
 
  APPM 5720 Calculus II for Engineers
 ------
-    * Supervisor: Prof. Jem Corcoran
+   * Supervisor: Prof. Jem Corcoran
 
 * CSCI 5606 Principle Numerical of Computation
   * Supervisor: Prof. Xiao-Chuan Cai
