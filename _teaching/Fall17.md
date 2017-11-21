@@ -8,7 +8,7 @@ date: 2017-08-27
 location: "CO, USA"
 ---
 
-APPM/MATH 5720 Mathematical Statistics (for APPM/MATH Major)
+APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major)
 ------
 * Supervisor: Prof. Jem Corcoran
 
