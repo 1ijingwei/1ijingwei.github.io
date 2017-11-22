@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am originally from P.R.China. I completed my bachelor's degree from NUFE. After that, I worked in a software company and a store.
+I am originally from P.R.China. I completed my bachelor's degree in Mathematics and Applied Mathematitcs at NUFE. After that, I worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
 
-I returned to academia because I experienced several challenges as a development practitioner back home and I wanted more insights on those issues. Broadly, I am interested in many areas. More specifically, I am interested.
+After have some really social practice, I decided to return to academia to improve my comprehensive skills because I experienced several challenges. Broadly, I am interested in many areas. More specifically, I am interested.
 
-I enjoy chinese calligraphy, learning about different cultures and traveling.
+Life is colorful and without certain patterns. I enjoy chinese calligraphy, learning about different cultures and traveling.
