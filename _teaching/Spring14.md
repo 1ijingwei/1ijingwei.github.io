@@ -1,18 +1,19 @@
 ---
 title: "Spring 2014"
 collection: teaching
-type: "Undergraduate course"
+type: "Course"
 permalink: /teaching/Spring14
-venue: "University C, Department"
-date: 2012-08-27
-location: "City, Country"
+venue: "C University, Dept. of Applied Mathematics, Dept. of Computer Science"
+date: 2014-01-27
+location: "CO, USA"
 ---
 
-Heading 1
-======
+APPM 1360 Calculus II for Engineers
+------
+* Supervisor: Prof. Anne Dougherty
 
-Heading 2
-======
 
-Heading 3
-======
+CSCI 1320 
+------
+* Supervisor: Prof. Ioana Fleming
+ 
