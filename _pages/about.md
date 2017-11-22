@@ -16,4 +16,4 @@ Life is colorful and without certain patterns. I enjoy chinese calligraphy, lear
 
 Here are some Chinese mottos I want to share with you:
 
-* Òµ¾«ÓÚÇÚ
+* ä¸šç²¾äºå‹¤ï¼Œè’äºå¬‰ã€‚
