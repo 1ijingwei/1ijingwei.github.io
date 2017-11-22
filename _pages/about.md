@@ -16,6 +16,7 @@ Life is colorful and without certain patterns. I enjoy chinese calligraphy, lear
 
 Here are some Chinese mottos I want to share with you:
 
+
 * 业精于勤，荒于嬉；行成于思，毁于随。
 
 * 路漫漫其修远兮，吾将上下而求索。
