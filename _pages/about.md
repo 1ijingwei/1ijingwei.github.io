@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Jingwei"
 excerpt: "About me"
@@ -14,6 +14,8 @@ After have some really social practice, I decided to return to academia to impro
 
 Life is colorful and without certain patterns. I enjoy chinese calligraphy, learning about different cultures and traveling.
 
-Here are some Chinese mottos I want to share with you:
+Here are some Chinese old sayings I want to share with you:
 
-* 业精于勤，荒于嬉。
+* 业精于勤，荒于嬉。行成于思，毁于随。
+
+* 路漫漫其修远兮，吾将上下而求索。 
