@@ -8,9 +8,9 @@ date: 2017-01-27
 location: "CO, USA"
 ---
 
-APPM 1360 Calculus I for Engineers
+* APPM 1360 Calculus I for Engineers
 ------
-* Supervisor: Prof. Ioana Fleming
+  * Supervisor: Prof. Ioana Fleming
 
 
 CSCI 1320 
