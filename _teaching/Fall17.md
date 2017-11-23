@@ -10,15 +10,16 @@ location: "CO, USA"
 
 * APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major)
   * Duties:
-    * Grading master and phd students
+    * Grading master and phd students' regular homework and exams
   * Supervisor: Prof. Jem Corcoran
 
-CSCI 5606 Principle of Numerical Computation
-------
-* Supervisor: Prof. Xiao-Chuan Cai
+* CSCI 5606 Principle of Numerical Computation
+    * Grading master and phd students' regular homework and exams
+    * Testing students' programming
+  * Supervisor: Prof. Xiao-Chuan Cai
 
-APPM 1350 Calculus I for Engineers
-------
-* Supervisor: Prof. Anne Doughtery
+* APPM 1350 Calculus I for Engineers
+
+  * Supervisor: Prof. Anne Doughtery
 
 
