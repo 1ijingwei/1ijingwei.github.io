@@ -1,7 +1,7 @@
 ---
 title: "Fall 2017"
 collection: teaching
-type: "Course"
+type: "Graduate Course"
 permalink: /teaching/Spring15
 venue: "C University, Dept. of Applied Mathematics, Dept. of Computer Science"
 date: 2017-08-27
