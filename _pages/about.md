@@ -1,6 +1,6 @@
 ﻿---
 permalink: /
-title: "Jingwei"
+title: "Jingwei Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
