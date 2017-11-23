@@ -9,12 +9,12 @@ location: "CO, USA"
 ---
 
 * APPM 1360 Calculus I for Engineers
-------
-  * Supervisor: Prof. Ioana Fleming
+  * Duties:
+    * Supervisor: Prof. Ioana Fleming
 
 
-CSCI 1320 
-------
-* Supervisor: Prof. Anne Dougherty
+* CSCI 1320 
+  * Duties:
+    * Supervisor: Prof. Anne Dougherty
 
 
