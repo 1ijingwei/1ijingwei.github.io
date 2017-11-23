@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "Jingwei Li"
 excerpt: "About me"
