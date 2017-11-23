@@ -8,9 +8,10 @@ date: 2017-08-27
 location: "CO, USA"
 ---
 
-APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major)
-------
-* Supervisor: Prof. Jem Corcoran
+* APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major)
+  * Duties:
+    * Grading master and phd students
+  * Supervisor: Prof. Jem Corcoran
 
 CSCI 5606 Principle of Numerical Computation
 ------
