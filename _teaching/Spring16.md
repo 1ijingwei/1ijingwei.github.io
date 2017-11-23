@@ -3,16 +3,10 @@ title: "Spring 2016"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Spring16
-venue: "University C, Department"
-date: 2012-08-27
-location: "City, Country"
+venue: "C University, Dept.of Applied Mathematics"
+date: 2016-08-27
+location: "CO, USA"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* APPM 1360 Calculus II for Engineers
+  * Supervisor: Prof. Anne Dougherty

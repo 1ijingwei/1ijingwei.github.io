@@ -1,18 +1,12 @@
 ---
-title: "Spring 2014"
+title: "Fall 2016"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Spring14
-venue: "University C, Department"
-date: 2012-08-27
-location: "City, Country"
+permalink: /teaching/Fall16
+venue: "C University, Dept.of Applied Mathematics"
+date: 2016-08-27
+location: "CO, USA"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+APPM 2350 Calculus III for Engineers
+  * Supervisor: Prof. Adam Norris
