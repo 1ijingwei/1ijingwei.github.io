@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-CU Boulder: APPM 4830-801/7000-003(B) (Spring 2016)
+CU Boulder: APPM 1360-001 (Spring 2016)
 
 Meeting Time: T 2:00-2:50pm in FLMG 154
 
