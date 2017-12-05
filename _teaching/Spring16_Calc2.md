@@ -2,9 +2,9 @@
 
 ## Syllabus
 
-CU Boulder: CSCI 4830-801/7000-003(B) (Spring 2017)
+CU Boulder: APPM 4830-801/7000-003(B) (Spring 2016)
 
-Meeting Time: MW 3:0-4:15pm in ECCS 1B14
+Meeting Time: T 2:00-2:50pm in FLMG 154
 
 #### Remote access via Zoom
 
@@ -18,9 +18,9 @@ https://gitter.im/cucs-hpla/Lobby
 
 #### Instructor
 
-[Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 621
+[Jingwei Li](https://1ijingwei.git.io), [<tt>jingwei.li@colorado.edu</tt>](mailto:jingwei.li@colorado.edu), ECCS 1B11
 
-Office Hours: M 1-2pm, T 2-3:15pm, W 9-10am, or by appointment.  I will occasionally need to reschedule an office hour and will maintain a current calendar on this website.
+Office Hours: M 1-2pm, T 2-3:15pm, W 9-10am, or by appointment.  
 
 ### Overview
 
