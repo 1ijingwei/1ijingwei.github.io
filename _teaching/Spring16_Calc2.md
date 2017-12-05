@@ -28,9 +28,9 @@ https://gitter.im/cucs-hpla/Lobby
 
 #### Instructor
 
-[Jingwei Li](https://1ijingwei.git.io), [<tt>jingwei.li@colorado.edu</tt>](mailto:jingwei.li@colorado.edu), ECCS 1B11
+[Jingwei Li](https://1ijingwei.github.io), [<tt>jingwei.li@colorado.edu</tt>](mailto:jingwei.li@colorado.edu), ECCS 1B11
 
-Office Hours: M 1-2pm, T 2-3:15pm, W 9-10am, or by appointment.  
+Office Hours: M 1-2pm, T 2-3pm, or by appointment.  
 
 ### Overview
 
