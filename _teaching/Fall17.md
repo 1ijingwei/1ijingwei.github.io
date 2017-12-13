@@ -14,13 +14,11 @@ location: "CO, USA"
 
 * CSCI 5606 Principle of Numerical Computation
   * Duties:  
-    * Grading master/Ph.D students' regular homework and exams
-    * Testing students' programming code
-    * Proctoring the final exam
+    * Grading master/Ph.D students' regular homework
+    * Testing students' programming assignments codes
+    * Proctoring and grading the midterm and final exams
   * Supervisor: Prof. Xiao-Chuan Cai
 
 * APPM 1350 Calculus I for Engineers, CA
-  * Duties: Helping grade mid-term exams and final exams
+  * Duties: Helping grade midterm exams and final exams
   * Supervisor: Prof. Anne Doughtery
-
-
