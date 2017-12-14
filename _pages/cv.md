@@ -13,18 +13,18 @@ Education
 ======
 * Ph.D in Computer Science, C University
 * M.S. in Computer Science, C University 
-* Dual M.S. in Applied Mathematics(Numerical Analysis/Operations Research), C University 
+* Dual M.S. in Applied Mathematics (Numerical Analysis/Operations Research), C University 
 * B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
 * Winter 2005: Research Assistant
-  * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd
+  * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd, Nanjing, China
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
 * 2006-2007: Manager Assistant
-  * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd
+  * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd, Nanjing, China
 
 * Fall 2015: Research Assistant
   * Github University
