@@ -8,5 +8,5 @@ date: 2016-08-27
 location: "CO, USA"
 ---
 
-* [APPM 1360 Calculus II for Engineers](/teaching/Spring16/Spring16_Calc2.md)
+* APPM 1360 Calculus II for Engineers([https://1ijingwei.github.io/teaching/Spring16/Spring16_Calc2.md])
   * Supervisor: Prof. Anne Dougherty
