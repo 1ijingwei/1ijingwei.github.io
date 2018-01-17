@@ -2,7 +2,7 @@
 title: "Fall 2017"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/Spring15
+permalink: /teaching/Fall17
 venue: "C University, Dept. of Applied Mathematics, Dept. of Computer Science"
 date: 2017-08-27
 location: "CO, USA"
