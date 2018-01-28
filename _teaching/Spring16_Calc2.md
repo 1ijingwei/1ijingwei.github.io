@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spring 2016"
 collection: teaching
 type: "Undergraduate course"
