@@ -12,7 +12,7 @@ location: "CO, USA"
 
 ## APPM1360 Calculus II for Engineers
 
-## Syllabus
+### Syllabus
 
 CU Boulder: APPM 1360-001 (Spring 2016)
 
