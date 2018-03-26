@@ -1,12 +1,9 @@
+
 ---
 title: "Spring 2016"
-
 collection: teaching
-
 type: "Undergraduate course"
-
 permalink: /teaching/Spring16_Calc2
-
 venue: "C University, Dept.of Applied Mathematics"
 date: 2016-08-27
 location: "CO, USA"
@@ -14,7 +11,7 @@ location: "CO, USA"
 
 
 
-# APPM1360 Calculus II for Engineers
+## APPM1360 Calculus II for Engineers
 
 ### Syllabus
 
