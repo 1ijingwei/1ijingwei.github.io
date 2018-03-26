@@ -9,7 +9,8 @@ location: "CO, USA"
 ---
 
 
-# APPM1360 Calculus II for Engineers
+
+## APPM1360 Calculus II for Engineers
 
 ## Syllabus
 
