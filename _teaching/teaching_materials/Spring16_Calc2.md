@@ -1,9 +1,8 @@
-
 ---
 title: "Spring 2016"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Spring16_Calc2
+permalink: /teaching/Spring16_Calc2 
 venue: "C University, Dept.of Applied Mathematics"
 date: 2016-08-27
 location: "CO, USA"
@@ -41,7 +40,7 @@ Covers algorithm development, optimization, and libraries for computational line
 
 ### Organization
 
-Precise topics and applications will be tuned to the interests and preparation of students.  We will start with some common algorithms and patterns in direct linear algebra for dense and sparse matrices. Though robust, these methods have poor algorithmic scaling, thus motivating a transition to iterative methods. Fast convergence of iterative methods depends on scalable preconditioning, typically in the form of multilevel methods. These methods are typically associated with sparse matrices, but are also useful for ¡°data sparse¡± representations of dense operators, such as arise in integral equations. Applications will be mixed in throughout, with more diversity and emphasis towards the end. Throughout the course, we will discuss practical aspects of parallel programming and performance analysis.
+Precise topics and applications will be tuned to the interests and preparation of students.  We will start with some common algorithms and patterns in direct linear algebra for dense and sparse matrices. Though robust, these methods have poor algorithmic scaling, thus motivating a transition to iterative methods. Fast convergence of iterative methods depends on scalable preconditioning, typically in the form of multilevel methods. These methods are typically associated with sparse matrices, but are also useful for Â¡Â°data sparseÂ¡Â± representations of dense operators, such as arise in integral equations. Applications will be mixed in throughout, with more diversity and emphasis towards the end. Throughout the course, we will discuss practical aspects of parallel programming and performance analysis.
 
 ### Benefits
 
