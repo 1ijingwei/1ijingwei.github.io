@@ -8,6 +8,7 @@ date: 2016-08-27
 location: "CO, USA"
 ---
 
+
 # APPM1360 Calculus II for Engineers
 
 ## Syllabus
