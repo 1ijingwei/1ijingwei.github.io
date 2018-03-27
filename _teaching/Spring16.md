@@ -9,5 +9,5 @@ location: "CO, USA"
 ---
 
 
-* [APPM 1360 Calculus II for Engineers](http://1ijingwei.github.io/teaching/Spring16_Calc2)
+* [APPM 1360 Calculus II for Engineers](http://1ijingwei.github.io/teaching/teaching_materials/Spring16_Calc2)
   * Supervisor: Prof. Anne Dougherty
