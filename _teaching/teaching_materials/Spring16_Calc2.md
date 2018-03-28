@@ -2,7 +2,7 @@
 title: "Spring 2016"
 collection: teaching/teaching_materials
 type: "Undergraduate course"
-permalink: /teaching/Spring16
+permalink: /teaching/teaching_materials/Spring16_Calc2
 venue: "C University, Dept.of Applied Mathematics"
 date: 2016-08-27
 location: "CO, USA"
