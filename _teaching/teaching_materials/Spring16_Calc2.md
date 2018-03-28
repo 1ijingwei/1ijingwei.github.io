@@ -9,7 +9,7 @@ location: "CO, USA"
 ---
 
 
-* ### APPM1360 Calculus II for Engineers
+* ### [APPM1360 Calculus II for Engineers] (http://1ijingwei.github.io/teaching/teaching_materials/Spring16_Calc2)
 
 ### Syllabus
 
