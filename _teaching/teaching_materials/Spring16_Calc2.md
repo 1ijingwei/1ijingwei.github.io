@@ -1,5 +1,5 @@
 ---
-title: "Spring 2016"
+title: "Spring 2016 1"
 collection: teaching/teaching_materials
 type: "Undergraduate course"
 permalink: /teaching/teaching_materials/Spring16_Calc2
