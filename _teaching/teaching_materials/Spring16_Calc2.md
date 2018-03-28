@@ -1,6 +1,6 @@
 ---
-title: "Spring 2016 1"
-collection: teaching/teaching_materials
+title: "Spring 2016"
+collection: /teaching/teaching_materials
 type: "Undergraduate course"
 permalink: /teaching/teaching_materials/Spring16_Calc2
 venue: "C University, Dept.of Applied Mathematics"
