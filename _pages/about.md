@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am originally from P.R.China. I completed my bachelor's degree in Mathematics and Applied Mathematitcs at NUFE. After that, I worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
+Jingwei is originally from P.R.China. He completed his bachelor's degree in Mathematics and Applied Mathematics at NUFE. After that, he worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
 
-After have some really social practice, I decided to return to academia to improve my comprehensive skills because I experienced several challenges. Broadly, I am interested in many areas. More specifically, I am interested.
+After have some real and practical experience in industry and sociaty, he decided to return to academia to improve my comprehensive skills because I experienced several challenges. Broadly, He is interested in many areas. 
 
 Life is colorful and without certain patterns. I enjoy chinese calligraphy, learning about different cultures and traveling.
 
