@@ -8,7 +8,7 @@ date: 2017-08-27
 location: "CO, USA"
 ---
 
-* APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major)
+* APPM/MATH 5720 Mathematical Statistics (for APPM/MATH major graduate students)
   * Duties: Grading master/Ph.D students' regular homework and exams
   * Supervisor: Prof. Jem Corcoran
 
