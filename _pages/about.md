@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jingwei is originally from P. R. China. He completed his bachelors in Mathematics and Applied Mathematics at NUFE. After that, he worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
+Jingwei completed his bachelors in Mathematics and Applied Mathematics at NUFE. After that, he worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
 
 Life is colorful and without certain patterns. After having some real and practical experience in industry and sociaty, he decided to return to academia to improve his comprehensive skills because he experienced several challenges. Broadly, He is interested in many areas. 
 
