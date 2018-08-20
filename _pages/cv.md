@@ -35,10 +35,11 @@ Work experience
 Skills
 ======
 * Mathematics 1
+  * Numerical analysis
+  * Probability & Statistics
 * Computer Science 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Scientific computing 2.2
+  * Machine Learning 2.3
 * Skill 3
 
 Publications
@@ -61,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Team Leader, NUFE Team for CUMCM
+* Publicity Minister and Co-founder of Mathematical Modeling Association, NUFE
