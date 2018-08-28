@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Jingwei completed his bachelors in Mathematics and Applied Mathematics at NUFE. After that, he worked in a software company and a state-owned enterprises in Nanjing Presidential Palace.
+I am an PhD candidate at the Department of Computer Science at CU.
 
-Life is colorful and without certain patterns. After having some real and practical experience in industry and sociaty, he decided to return to academia to improve his comprehensive skills because he experienced several challenges. Broadly, He is interested in many areas. 
+My main research interests include
+* Scientific Computing 
+* Machine learning/ Deep learning
 
-He enjoy chinese calligraphy, learning about different cultures and traveling.
+I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
+
+Current teaching: CSCI 1320 Engineer Applications.
+
+Openings: I am looking for motivated students who are interested in NLP, data science, computational social science, or machine learning! Please read this FAQ before contacting me.
 
 Here are some Chinese old sayings he wants to share with you:
-
 * 业精于勤，荒于嬉。行成于思，毁于随。
-
 * 路漫漫其修远兮，吾将上下而求索。 
