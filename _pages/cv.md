@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, CU
-* M.S. in Computer Science, CU
-* Dual M.S. in Applied Mathematics (Numerical Analysis/Operations Research), CU 
+* Dual M.S. in Applied Mathematics (Numerical Analysis/Operations Research), M.S. in Computer Science, CU 
 * B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
