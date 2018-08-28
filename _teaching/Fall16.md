@@ -8,5 +8,5 @@ date: 2016-08-27
 location: "CO, USA"
 ---
 
-APPM 2350 Calculus III for Engineers
+* APPM 2350 Calculus III for Engineers
   * Supervisor: Prof. Adam Norris
