@@ -13,6 +13,7 @@ I am an PhD candidate at the Department of Computer Science at CU.
 My main research interests include
 * Scientific Computing 
 * Machine learning/ Deep learning
+* Neural network
 
 I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
 
