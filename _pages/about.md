@@ -21,4 +21,5 @@ Current teaching: CSCI 1320 Engineer Applications.
 
 Here are some Chinese old sayings I want to share with you:
 * 业精于勤，荒于嬉。行成于思，毁于随。
-* 路漫漫其修远兮，吾将上下而求索。 
+* 路漫漫其修远兮，吾将上下而求索。
+* 路漫漫。 
