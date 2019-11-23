@@ -18,8 +18,8 @@ My main research interests include
 I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
 
 Current teaching: 
-* CSCI 3022 Intro to Data Science
-* CSCI 1320 Engineer Applications.
+* CSCI 3022: Data Science with Probability and Statistics
+* CSCI 1320: Engineer Applications
 
 Here are some Chinese old sayings I want to share with you:
 * 业精于勤，荒于嬉。行成于思，毁于随。
