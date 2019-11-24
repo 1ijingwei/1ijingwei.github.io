@@ -20,7 +20,7 @@ Work experience
 * Winter 2005: Researcher/ Software & App consultant
   * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd, Nanjing, China
   * Duties included: Tagging issues
-  * Supervisor: Yongqing Chen, Manager of 
+  * Supervisor: Yongqing Chen, Manager
   
 * 2006-2007: Manager Assistant
   * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd, Nanjing, China
