@@ -39,7 +39,7 @@ Skills
 * Computer Science 
   * Scientific computing 2.2
   * Machine Learning 2.3
-* Skill 3
+* Statistics
 
 Publications
 ======
