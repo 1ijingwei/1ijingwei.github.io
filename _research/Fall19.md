@@ -1,5 +1,5 @@
 ---
-title: "Fall19"
+title: "Fall 2019"
 collection: research
 type: "Undergraduate course"
 permalink: /research/Fall19
