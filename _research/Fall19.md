@@ -1,10 +1,10 @@
 ---
-title: "Fall 2019"
+title: "Fall19"
 collection: research
 type: "Undergraduate course"
-permalink: /_research/Fall19
+permalink: /research/Fall19
 venue: "University C, Dept. of Computer Science"
-date: 2012-08-27
+date: 2019-08-27
 location: "CO, USA"
 ---
 
