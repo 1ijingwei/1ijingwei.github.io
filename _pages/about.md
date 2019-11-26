@@ -12,7 +12,6 @@ I am a PhD candidate at the Department of Computer Science at CU.
 
 My main research interests include
 * High performance computing
-** e
 * Machine learning / Deep learning
 * Statistical Modelings
 
