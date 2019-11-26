@@ -10,7 +10,5 @@ location: "CO, USA"
 
 
 
-* APPM 2350 Calculus III for Engineers
+* Research 19
   * Supervisor: Prof. Adam Norris
-
-Research 19
