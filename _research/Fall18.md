@@ -1,10 +1,10 @@
 ---
 title: "Fall 2018"
-collection: research
+collection: Research
 type: "Graduate Course"
 permalink: /research/Fall18
 venue: "C University, Dept. of Applied Mathematics, Dept. of Computer Science"
-date: 2017-08-27
+date: 2018-08-27
 location: "CO, USA"
 ---
 
