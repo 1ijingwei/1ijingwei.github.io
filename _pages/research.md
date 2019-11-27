@@ -12,8 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Machine Learning
-===
-Basic
----
-* ewr  |  * 4435
+* Machine Learning
+
+ * 223  * 333
+
