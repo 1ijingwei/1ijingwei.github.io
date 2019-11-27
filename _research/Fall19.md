@@ -1,6 +1,6 @@
 ---
 title: "Fall 2019"
-collection: research
+collection: Research
 type: "Undergraduate course"
 permalink: /research/Fall19
 venue: "University C, Dept. of Computer Science"
