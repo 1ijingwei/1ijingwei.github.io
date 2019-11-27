@@ -1,6 +1,6 @@
 ---
 title: "Fall 2018"
-collection: Research
+collection: research
 type: "Graduate Course"
 permalink: /research/Fall18
 venue: "C University, Dept. of Applied Mathematics, Dept. of Computer Science"
