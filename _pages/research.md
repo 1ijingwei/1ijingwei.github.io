@@ -12,7 +12,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* Machine Learning
-
- * 223  * 333
+Machine Learning
+===
 
