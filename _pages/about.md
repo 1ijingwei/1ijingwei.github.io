@@ -12,11 +12,13 @@ I am a PhD candidate at the Department of Computer Science at CU.
 
 My main research interests include
 * High performance computing
+  * PETSc
 * Machine learning / Deep learning
   * Pattern Recognition and Data Mining
   * Information and Complexity
 * Computational Mathematics
-* Foundations of Probability and Statistics
+  * Numerical solutions of PDEs
+* Probability and Statistics
   * Statistical Modelings
 
 
