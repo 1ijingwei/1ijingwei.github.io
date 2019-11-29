@@ -18,19 +18,20 @@ Education
 
 Work experience
 ======
+* Fall 2019: Research Assistant
+  * C University
+  * Duties included: Merging pull requests
+  * Supervisor: Prof. Cai
+
 * Winter 2005: Researcher/ Software & App consultant
   * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd, Nanjing, China
   * Duties included: Tagging issues
-  * Supervisor: Yongqing Chen, Manager
+  * Supervisor: Yongqing Chen, General manager
   
 * 2006-2007: Manager Assistant
   * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd, Nanjing, China
   * Supervisor: Jun Zhou, Manager
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -63,4 +64,5 @@ Teaching
 Service and leadership
 ======
 * Team Leader, NUFE Team for CUMCM
-* Publicity Minister and Co-founder of Mathematical Modeling Association, NUFE
+* Publicity Minister
+* Co-founder of Mathematical Modeling Association, NUFE
