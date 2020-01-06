@@ -19,7 +19,9 @@ My main research interests include
 * Computational Mathematics
   * Numerical solutions of PDEs
 * Probability and Statistics
-  * Statistical Modelings
+  * Dimension reduction and variable selection
+  * Statistical computing and optimization
+  * Time series modeling; business/economics applications
 
 
 I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
