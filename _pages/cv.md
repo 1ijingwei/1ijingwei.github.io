@@ -37,6 +37,7 @@ Skills
 ======
 * Mathematics 
   * Numerical analysis
+    ** Matlab
   * Probability & Statistics
 * Computer Science 
   * Scientific computing 2.2
