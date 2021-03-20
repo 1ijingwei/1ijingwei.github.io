@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Department of Computer Science at CU.
+I am a Ph.D. candidate at CU.
 
 Chinese maxims:
 * 业精于勤，荒于嬉。行成于思，毁于随。
