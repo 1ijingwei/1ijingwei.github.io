@@ -80,8 +80,8 @@ analytics:
 author:
   name             :
   avatar           : "bio-photo-2.png"
-  bio              : "Ph.D Candidate"
-  location         : "P.R. China"
+  bio              : ""
+  location         : ""
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
