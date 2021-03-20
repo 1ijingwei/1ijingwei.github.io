@@ -26,10 +26,11 @@ My main research interests include
 
 I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
 
-Current teaching: 
+Current teaching:
+* CSCI 2270: Data Structures
 * CSCI 3022: Data Science with Probability and Statistics
 * CSCI 1320: Engineer Applications
 
-Here are some Chinese maxims:
+Chinese maxims:
 * 业精于勤，荒于嬉。行成于思，毁于随。
 * 路漫漫其修远兮，吾将上下而求索。
