@@ -1,5 +1,13 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-
+{% include base_path %}
 
 Education
 ======
@@ -33,8 +41,7 @@ Skills
 * Computer Science 
   * Scientific computing 2.2
   * Machine Learning 2.3
-* Statistics
-
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
