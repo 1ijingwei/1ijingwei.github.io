@@ -12,23 +12,22 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, CU
-* M.S. in Computer Science, CU
-* Dual M.S. in Applied Mathematics (Computational Mathematics / Operations Research), CU 
+* M.S. in Computer Science and Applied Mathematics, CU
 * B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======
 * Fall 2019: Research Assistant
-  * C University
+  * CU
   * Duties included: Merging pull requests
   * Supervisor: Prof. Cai
 
-* Winter 2005: Researcher/ Software & App consultant
+* Researcher/ Software & App consultant
   * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd, Nanjing, China
   * Duties included: Tagging issues
   * Supervisor: Yongqing Chen, General manager
   
-* 2006-2007: Manager Assistant
+* Manager Assistant
   * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd, Nanjing, China
   * Supervisor: Jun Zhou, Manager
 
