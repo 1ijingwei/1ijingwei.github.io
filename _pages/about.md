@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at CU. 1234
+I am a Ph.D. candidate at CU. 12345
 
 Chinese maxims:
-* 业精于勤，荒于嬉。行成于思，毁于随�?
-* 路漫漫其修远兮，吾将上下而求索�?
+* 荳夂ｲｾ莠主共�瑚穀莠主ｬ峨り｡梧�莠取晢ｼ梧ｯ∽ｺ朱囂縲?
+* 霍ｯ貍ｫ貍ｫ蜈ｶ菫ｮ霑懷��悟誓蟆�ｸ贋ｸ玖梧ｱらｴ｢縲?
