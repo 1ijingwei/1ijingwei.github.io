@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Ph.D. candidate at CU. 
 
-Chinese maxims dd
+My research intersts:
