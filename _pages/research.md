@@ -44,6 +44,9 @@ Some of the highlights of our research work have been the use of hints in learni
 I am also broadly interested in computational social science, natural language processing, and artificial intelligence.
 
 Current teaching:
+* EBIO 1240: General Biology Lab 2
+
+Previous teaching:
 * CSCI 2270: Data Structures
 * CSCI 3022: Data Science with Probability and Statistics
 * CSCI 1320: Engineer Applications
