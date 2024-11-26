@@ -14,18 +14,18 @@ Education
 
 Work experience
 ======
-* Fall 2019: Research Assistant
+* Research Assistant
   * CU
   * Duties included: Merging pull requests
   * Supervisor: Prof. Cai
 
 * Researcher/ Software & App consultant
-  * Dept. of Software Developement, Nanjing Luculent Software Co.,Ltd, Nanjing, China
+  * Dept. of Software Developement, Nanjing Luculent Software Co., Ltd, Nanjing, China
   * Duties included: Tagging issues
   * Supervisor: Yongqing Chen, General manager
   
 * Manager Assistant
-  * Dept. of Project Management, Nanjing Lucuent Software Co.,Ltd, Nanjing, China
+  * Dept. of Project Management, Nanjing Lucuent Software Co., Ltd, Nanjing, China
   * Supervisor: Jun Zhou, Manager
 
   
