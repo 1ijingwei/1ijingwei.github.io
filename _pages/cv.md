@@ -11,6 +11,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, CU
+* M.S. in Applied Mathematics, CU
+* B.S. in Mathematics and Applied Mathematics, NUFE
 
 Work experience
 ======

@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at CU. 
+I am a Ph.D. at CU. 
 
 My research intersts:
