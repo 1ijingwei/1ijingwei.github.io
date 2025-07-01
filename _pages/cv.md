@@ -31,16 +31,14 @@ Work experience
   * Supervisor: Jun Zhou, Manager
 
   
-Skills
+Technical Skills
 ======
-* Machine Learning Skills
-  * Algorithms: Linear/Logistic Regression, Decision Trees, Random Forests, SVM, KNN, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), K-means, PCA
-  * Deep Learning: Neural Networks, CNNs, RNNs, LSTM, Autoencoders
-  * Frameworks & Libraries: Scikit-learn, TensorFlow, Keras, PyTorch
-  * Data Processing: Pandas, NumPy, OpenCV, NLTK, spaCy
-  * Model Evaluation: Cross-validation, Grid Search, ROC/AUC, Confusion Matrix, Precision/Recall
-  * Deployment: Flask, FastAPI, Docker, AWS (EC2, S3), Git
-  * Tools: Jupyter, VS Code, GitHub, MLfl
+* Data Science & Machine Learning: Machine Learning, Deep Learning, Data Mining, Keras, TensorFlow, SAS, MATLAB, R, Hadoop
+* Programming Languages: Python, C, C++, Java, Visual Basic, HTML, JavaScript, XML (basic), UML
+* Databases & Query Languages: Oracle (SQL, PL/SQL), MySQL, NoSQL
+* Statistical & Scientific Computing Tools: Mathematica, Maple, PETSc/SLEPc, AMPL, Lindo, Lingo
+* Cloud & Distributed Systems: Amazon EC2, ASP
+* Other Tools & Skills: Project Management, EViews
 * Mathematics 
   * Numerical analysis
   * Probability & Statistics
