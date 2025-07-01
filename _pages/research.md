@@ -14,19 +14,28 @@ author_profile: true
 
 Overview
 ---
-My main research interests include:
-* High performance computing
-  * PETSc
-* Machine learning / Deep learning
-  * Pattern Recognition and Data Mining
-  * Information and Complexity
-* Computational Mathematics
-  * Numerical solutions of PDEs
-* Probability and Statistics
-  * Dimension reduction and variable selection
-  * Statistical computing and optimization
-  * Time series modeling; business/economics applications
 
+My core research interests span the intersection of computational science, machine learning, and applied mathematics, and include:
+
+* High-Performance Computing
+
+Parallel algorithms and scalable computing, with a focus on PETSc-based solutions
+
+* Machine Learning and Deep Learning
+
+Pattern recognition, data mining, and statistical learning theory
+
+* Computational Mathematics and Scientific Computing
+
+  * Numerical solutions of partial differential equations (PDEs)
+
+* Statistical computing and optimization techniques
+
+  * Statistical Methods and Applications
+
+  * Dimension reduction and variable selection
+
+  * Probability, statistics, and time series modeling
 
 Machine Learning (ML) is one of the most important fields in engineering and science today. It deals with the fundamental problem of using a data set to recreate the process that generated the data (hence that process is 'learned' from a set of observations). The name of the field distinguishes it from human learning. ML is also referred to as computational learning or statistical learning, and has significant overlap with data mining, pattern recognition, and parts of statistics. Over the past 5 years, there has been an explosion of interest in ML and its application to scientific research in different fields, to industrial products, and to financial and commercial systems.
 
