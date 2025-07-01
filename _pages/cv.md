@@ -10,16 +10,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, CU
-* M.S. in Applied Mathematics, CU
-* B.S. in Mathematics and Applied Mathematics, NUFE
+* Ph.D. in Computer Science, University of Colorado Boulder
+* M.S. in Applied Mathematics, University of Colorado Boulder
+* B.S. in Mathematics and Applied Mathematics, Nanjing University of Finance and Economics
 
 Work experience
 ======
 * Research Assistant
   * CU
   * Duties included: Merging pull requests
-  * Supervisor: Prof. Cai
+  * Supervisor: Prof. Xiao-Chuan Cai
 
 * Researcher/ Software & App consultant
   * Dept. of Software Developement, Nanjing Luculent Software Co., Ltd, Nanjing, China
@@ -33,6 +33,14 @@ Work experience
   
 Skills
 ======
+* Machine Learning Skills
+  * Algorithms: Linear/Logistic Regression, Decision Trees, Random Forests, SVM, KNN, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), K-means, PCA
+  * Deep Learning: Neural Networks, CNNs, RNNs, LSTM, Autoencoders
+  * Frameworks & Libraries: Scikit-learn, TensorFlow, Keras, PyTorch
+  * Data Processing: Pandas, NumPy, OpenCV, NLTK, spaCy
+  * Model Evaluation: Cross-validation, Grid Search, ROC/AUC, Confusion Matrix, Precision/Recall
+  * Deployment: Flask, FastAPI, Docker, AWS (EC2, S3), Git
+  * Tools: Jupyter, VS Code, GitHub, MLfl
 * Mathematics 
   * Numerical analysis
   * Probability & Statistics
