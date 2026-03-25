@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Research Assistant
-  * CU Boulder
+  * Department of Computer Science, CU Boulder
   * Duties included: Merging pull requests
   * Supervisor: Prof. Xiao-Chuan Cai
 
