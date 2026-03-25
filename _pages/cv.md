@@ -11,6 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Colorado Boulder (CU Boulder)
+* M.S. in Computer Science, University of Colorado Boulder
 * M.S. in Applied Mathematics, University of Colorado Boulder
 * B.S. in Mathematics and Applied Mathematics, Nanjing University of Finance and Economics
 
