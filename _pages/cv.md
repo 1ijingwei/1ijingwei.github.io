@@ -40,13 +40,17 @@ Technical Skills
 * Statistical & Scientific Computing Tools: Mathematica, Maple, PETSc/SLEPc, AMPL, Lindo, Lingo
 * Cloud & Distributed Systems: Amazon EC2, ASP
 * Other Tools & Skills: Project Management, EViews
+
+Research areas:
+======
 * Mathematics 
   * Numerical analysis
   * Probability & Statistics
 * Computer Science 
   * Scientific computing 2.2
   * Machine Learning 2.3
- 
+* 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
