@@ -9,7 +9,7 @@
 		<title>Jingwei Li, Ph.D. | Personal Website</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="Jingwei Li, Ph.D. — AI and machine learning, big data analytics, scalable high-performance computing, and biomedical AI / medical image analysis." />
+		<meta name="description" content="Jingwei Li, Ph.D. — AI for Science, domain-decomposed learning, AI + HPC convergence, scalable and trustworthy machine learning, and biomedical AI / medical image analysis." />
 		<link rel="icon" type="image/png" href="images/basic_ds.png" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -22,6 +22,13 @@
 .tag { display:inline-block; margin:.2em .25em .2em 0; padding:.2em .55em; border:1px solid rgba(255,255,255,.25); border-radius:3px; font-size:.78em; }
 #banner .content p { margin:0 0 1.1em 0 !important; }
 #banner .content .actions { margin-top:1.2em; }
+.pub-group { margin:0 0 2.2em 0; }
+.pub-group h3 { margin-bottom:.8em; }
+.pub-list { list-style:none; padding:0; margin:0; }
+.pub-list li { margin:0 0 1.1em 0; padding:0 0 0 1em; border-left:2px solid rgba(255,255,255,.25); line-height:1.6; }
+.pub-list .pub-venue { font-style:italic; }
+.pub-list .pub-note { opacity:.72; font-size:.9em; }
+.pub-list a.pub-link { border-bottom:dotted 1px; }
 </style>
 	</head>
 	<body class="is-preload page-index">
@@ -46,6 +53,7 @@
 							<li><a href="index.html">Home</a></li>
 							<li><a href="about.html">About</a></li>
 							<li><a href="projects/index.html">Research &amp; Projects</a></li>
+							<li><a href="#publications">Publications</a></li>
 							<li><a href="teaching.html">Teaching</a></li>
 							<li><a href="resume.html">CV</a></li>
 						</ul>
@@ -58,10 +66,11 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major"><h1>Jingwei Li, Ph.D.</h1></header>
-							<div class="content" style="flex-direction:column;align-items:flex-start;"><p><strong>AI &amp; Machine Learning · Big Data Analytics · Scalable Computing · Biomedical AI</strong></p>
-<p>I am an AI and data science researcher building data-driven, scalable intelligence at the intersection of mathematical modeling, statistical learning, high-performance computing, and biomedical applications. My background spans domain-decomposed learning algorithms for large-scale data, linear discriminant analysis, time-varying effect models, computer vision, and machine learning for intelligent image analysis.</p>
+							<div class="content" style="flex-direction:column;align-items:flex-start;"><p><strong>AI for Science · Agentic AI · Domain Decomposition · AI + HPC Convergence · Multimodal Biomedical AI</strong></p>
+<p>I am an AI and data science researcher building AI-native, scalable, and trustworthy machine learning for biomedical discovery. My core research brings domain decomposition, a principle from high-performance scientific computing, into statistical learning: domain-decomposed learning algorithms split large-scale problems into subproblems, solve them in parallel, and coordinate the results, so that learning scales across distributed and GPU-accelerated resources.</p>
+<p>This sits within a broader program in scientific machine learning, including linear discriminant analysis, time-varying effect models, and computer vision, where transfer and contrastive learning help build robust representations for medical image analysis. I am now exploring how multimodal foundation models, agentic workflows, and AI co-scientist systems can plug into scalable, verifiable pipelines, moving biomedical research from data to discovery with greater speed, interpretability, and reproducibility.</p>
 
-<ul class="actions"><li><a href="resume.html" class="button primary">CV</a></li><li><a href="projects/index.html" class="button">Research & Projects</a></li><li><a href="teaching.html" class="button">Teaching & Mentoring</a></li></ul>
+<ul class="actions"><li><a href="resume.html" class="button primary">CV</a></li><li><a href="projects/index.html" class="button">Research & Projects</a></li><li><a href="#publications" class="button">Publications</a></li><li><a href="teaching.html" class="button">Teaching & Mentoring</a></li></ul>
 </div>
 						</div>
 					</section>
@@ -73,6 +82,39 @@
 <article><span class="image"><img src="images/pic02.jpg" alt=""></span><header class="major"><h3><a href="projects/medical-image-analysis.html" class="link">AI for Medical Image Analysis</a></h3><p>Deep learning, computer vision, and intelligent image processing for biomedical applications</p></header></article>
 <article><span class="image"><img src="images/pic03.jpg" alt=""></span><header class="major"><h3><a href="projects/time-varying-models.html" class="link">Predictive &amp; Causal Modeling</a></h3><p>Time-varying effects, mediation analysis, and flexible spline-based estimation for longitudinal data</p></header></article>
 </section>
+<section id="publications"><div class="inner"><header class="major"><h2>Publications</h2></header>
+
+<div class="pub-group"><h3>Peer-Reviewed Journal Articles</h3>
+<ul class="pub-list">
+<li>Li, J. &amp; Cai, X.-C. (2024). “Domain decomposed classification algorithms based on linear discriminant analysis: An optimality theory and applications.” <span class="pub-venue">Neurocomputing</span>, 575, 127261. <a class="pub-link" href="https://doi.org/10.1016/j.neucom.2024.127261">doi:10.1016/j.neucom.2024.127261</a></li>
+<li>Li, J. &amp; Cai, X.-C. (2021). “Summation pollution of principal component analysis and an improved algorithm for location sensitive data.” <span class="pub-venue">Numerical Linear Algebra with Applications</span>, 28(5), e2370. <a class="pub-link" href="https://doi.org/10.1002/nla.2370">doi:10.1002/nla.2370</a></li>
+<li>Li, X., Li, J., &amp; Li, H. (2007). “How to Choose a Car or Taxi.” <span class="pub-venue">Advanced Mathematics Bulletin</span>, 5(1), 82–87.</li>
+</ul></div>
+
+<div class="pub-group"><h3>In Preparation</h3>
+<ul class="pub-list">
+<li>Li, J., Piper, M.E. &amp; Coffman, D. (2025). “An estimation approach for time-varying effect models using cubic splines.” <span class="pub-venue">Journal of Behavioral Data Science</span> <span class="pub-note">(in preparation)</span>.</li>
+</ul></div>
+
+<div class="pub-group"><h3>Conference Papers &amp; Presentations</h3>
+<ul class="pub-list">
+<li>Li, J. &amp; Coffman, D. (2025). “Time-varying mediation effects for time-varying treatments with covariates.” International Society for Data Science and Analytics (ISDSA), 2025 Meeting, Washington, D.C. <span class="pub-note">(accepted)</span></li>
+<li>Li, J. &amp; Coffman, D. (2025). “Time-varying mediation effect models.” 6th National Big Data Health Science Conference, Columbia, South Carolina.</li>
+<li>Li, J. &amp; Coffman, D. (2024). “An estimation approach for time-varying effect models using cubic splines.” ISDSA 2024 Meeting, Vienna, Austria.</li>
+<li>Li, J., Piper, M.E. &amp; Coffman, D. (2024). “An estimation approach for time-varying effect models.” Modern Modeling Methods (MMM 2024), Storrs, Connecticut.</li>
+<li>Li, J. &amp; Cai, X.-C. (2018). “A domain decomposition approach for object recognition.” 25th Domain Decomposition Methods Conference, St. John’s, Newfoundland, Canada.</li>
+<li>Li, J. &amp; Engau, A. (2011). “Warmstarting Interior-Point Methods for semidefinite programming.” SIAM Conference on Optimization, Darmstadt, Germany.</li>
+</ul></div>
+
+<div class="pub-group"><h3>Book Chapters</h3>
+<ul class="pub-list">
+<li>Li, J., Li, X., &amp; Li, H. (2008). “Stability Analysis of the elephants’ community.” In G. Wang &amp; M. Wang (Eds.), <span class="pub-venue">Modern Mathematical Modeling Methods</span> (pp. 259–270). China Science Press.</li>
+<li>Li, J., Li, X., &amp; Li, H. (2008). “Analysis of the optimal price.” In G. Wang &amp; M. Wang (Eds.), <span class="pub-venue">Modern Mathematical Modeling Methods</span> (pp. 271–275). China Science Press.</li>
+<li>Li, X., Li, J., &amp; Li, H. (2008). “The optimal design for a theater.” In G. Wang &amp; M. Wang (Eds.), <span class="pub-venue">Modern Mathematical Modeling Methods</span> (pp. 301–303). China Science Press.</li>
+</ul></div>
+
+<p>See the <a href="resume.html">full CV</a> for education, appointments, teaching, and professional activities.</p>
+</div></section>
 <section id="two"><div class="inner"><header class="major"><h2>Research interests</h2></header>
 <p><span class="tag">AI &amp; machine learning</span><span class="tag">Deep learning &amp; computer vision</span><span class="tag">Medical image analysis</span><span class="tag">Scalable / parallel learning</span><span class="tag">Statistical learning</span><span class="tag">High-performance computing</span><span class="tag">Big data analytics</span><span class="tag">Biomedical AI</span></p>
 
